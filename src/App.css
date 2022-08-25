@@ -1,5 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+}
 .App {
-  text-align: center;
+  padding-top: 2vh;
+  text-align: left;
+}
+
+h1{
+  padding-bottom: 2vh;
 }
 
 .App-logo {
